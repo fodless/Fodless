@@ -151,6 +151,9 @@
 
 <div align="center">
 
+[![Argus](https://github-readme-stats.vercel.app/api/pin/?username=Fodless&repo=Argus&theme=tokyonight&hide_border=true)](https://github.com/Fodless/Argus)
+[![Kryptos](https://github-readme-stats.vercel.app/api/pin/?username=Fodless&repo=Kryptos&theme=tokyonight&hide_border=true)](https://github.com/Fodless/Kryptos)
+
 [![Dynamic Island](https://github-readme-stats.vercel.app/api/pin/?username=Fodless&repo=dynamic-island&theme=tokyonight&hide_border=true)](https://github.com/Fodless/dynamic-island)
 
 </div>
